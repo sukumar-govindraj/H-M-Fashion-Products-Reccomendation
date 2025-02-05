@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/f0e70bf1-65b2-4a79-a738-5cb465665193)
 
 # H&M Personalized Fashion Recommendations
 
@@ -30,18 +31,22 @@ The dataset consists of **customer transaction history, product metadata, and cu
 - **Article ID**: The product ID that was purchased.
 - **Purchase Timestamp**: Date and time of the transaction.
 - **Sales Channel**: Whether the purchase was made online or in-store.
+![image](https://github.com/user-attachments/assets/7d2e8c01-8481-4b4b-989c-4aeb45fb32d7)
 
 #### Customers Data (`customers.csv`)
 - **Age**: Customer’s age.
 - **Loyalty Program**: Indicates if the customer is a part of H&M’s loyalty program.
 - **Account Creation Date**: Date when the customer first registered.
+- ![image](https://github.com/user-attachments/assets/13b07873-e08f-4e24-90b1-7119c0156822)
+
 
 #### Products Data (`articles.csv`)
 - **Product Type**: Type of clothing item.
 - **Color, Material, Garment Group**: Key attributes defining the article.
 - **Product Description**: Text-based metadata for recommendations.
+![image](https://github.com/user-attachments/assets/bc874752-fde3-4d39-9b85-88ce28c481b7)
 
-The dataset is preprocessed in the [Data Preprocessing Notebook](H&M_Product_Reccomendation.ipynb).
+The dataset is preprocessed in the [Data Preprocessing Notebook](https://github.com/sukumar-govindraj/H-M-Fashion-Products-Reccomendation/blob/main/H%26M_Product_Reccomendation.ipynb).
 
 ## 3. Executive Summary
 ### Overview of Findings
