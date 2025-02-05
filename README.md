@@ -46,6 +46,9 @@ The dataset consists of **customer transaction history, product metadata, and cu
 - **Product Description**: Text-based metadata for recommendations.
 ![image](https://github.com/user-attachments/assets/bc874752-fde3-4d39-9b85-88ce28c481b7)
 
+![image](https://github.com/user-attachments/assets/db8717ed-512b-4bff-9b45-6033111b7fc0)
+
+
 The dataset is preprocessed in the [Data Preprocessing Notebook](https://github.com/sukumar-govindraj/H-M-Fashion-Products-Reccomendation/blob/main/H%26M_Product_Reccomendation.ipynb).
 
 ## 3. Executive Summary
@@ -60,7 +63,7 @@ The dataset is preprocessed in the [Data Preprocessing Notebook](https://github.
   - **Reduced online engagement compared to 2020-2021 pandemic peaks**.
   - **Decreased frequency of repeat purchases by customers**.
 
-A detailed exploratory data analysis (EDA) is available in the [EDA Notebook](H&M_Product_Reccomendation.ipynb).
+A detailed exploratory data analysis (EDA) is available in the [EDA Notebook]([H&M_Product_Reccomendation.ipynb](https://github.com/sukumar-govindraj/H-M-Fashion-Products-Reccomendation/blob/main/H%26M_Product_Reccomendation.ipynb)).
 
 ## 4. Results and Recommendations
 ### Results from the Recommendation Models
@@ -72,8 +75,9 @@ Our machine learning models delivered the following performance:
 | Content-Based Filtering (TF-IDF) | 0.65 | **0.48** | 0.60 |
 | Neural Collaborative Filtering (NCF) | **0.78** | **0.52** | **0.69** |
 | Graph Neural Networks (GNN) | **0.81** | **0.55** | **0.72** |
+![image](https://github.com/user-attachments/assets/b2e30ebb-372e-4fff-9b99-364ef5b92b70)
 
-The complete model training and evaluation can be found in the [Model Training Notebook](H&M_Product_Reccomendation.ipynb).
+The complete model training and evaluation can be found in the [Model Training Notebook]([H&M_Product_Reccomendation.ipynb](https://github.com/sukumar-govindraj/H-M-Fashion-Products-Reccomendation/blob/main/H%26M_Product_Reccomendation.ipynb)).
 
 ### Actionable Business Recommendations
 #### 1. Personalized Marketing Campaigns
