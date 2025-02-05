@@ -75,6 +75,7 @@ Our machine learning models delivered the following performance:
 | Content-Based Filtering (TF-IDF) | 0.65 | **0.48** | 0.60 |
 | Neural Collaborative Filtering (NCF) | **0.78** | **0.52** | **0.69** |
 | Graph Neural Networks (GNN) | **0.81** | **0.55** | **0.72** |
+
 ![image](https://github.com/user-attachments/assets/b2e30ebb-372e-4fff-9b99-364ef5b92b70)
 
 The complete model training and evaluation can be found in the [Model Training Notebook]([H&M_Product_Reccomendation.ipynb](https://github.com/sukumar-govindraj/H-M-Fashion-Products-Reccomendation/blob/main/H%26M_Product_Reccomendation.ipynb)).
