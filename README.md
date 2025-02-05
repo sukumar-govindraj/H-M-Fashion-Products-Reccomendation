@@ -67,14 +67,9 @@ A detailed exploratory data analysis (EDA) is available in the [EDA Notebook]([H
 
 ## 4. Results and Recommendations
 ### Results from the Recommendation Models
-Our machine learning models delivered the following performance:
+Models delivered the following performance:
+![image](https://github.com/user-attachments/assets/b61f808a-d732-4f3e-83e2-6e7b90c20901)
 
-| Model | Hit Rate@10 | MAP@10 | Recall@10 |
-|--------|------------|--------|-----------|
-| Item-Based Collaborative Filtering | **0.72** | 0.45 | 0.63 |
-| Content-Based Filtering (TF-IDF) | 0.65 | **0.48** | 0.60 |
-| Neural Collaborative Filtering (NCF) | **0.78** | **0.52** | **0.69** |
-| Graph Neural Networks (GNN) | **0.81** | **0.55** | **0.72** |
 
 ![image](https://github.com/user-attachments/assets/b2e30ebb-372e-4fff-9b99-364ef5b92b70)
 
